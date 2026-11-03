@@ -9,7 +9,9 @@ A web-based AI Assistant built using **Python, Flask, and the OpenAI API**. The 
 - **Interactive interface:** Simple frontend built with HTML and CSS.
 - **Environment variables:** Uses `python-dotenv` to securely load API credentials.
 - **Debug mode:** Flask development server for testing and development.
+## 🖥️ Application Preview
 
+![AI Assistant Screenshot](Screenshot%202026-11-02%20153227.png)
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
